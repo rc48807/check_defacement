@@ -12,9 +12,13 @@ Mandatory arguments: The following argument must be specified when the module is
 Optional arguments The following arguments are optionally invoked, as user needs:
 
 -V or --version used to query the module version.
+
 -A or --author used to query the author's data.
+
 -i or --ignore used to skip the list of dangerous words preinstalled.
+
 -I or --Ignore used to specify one or more existing words in the preinstalled list to be ignored.
+
 -K or --keyword used to specify the words to be searched in Web content.
 
 Command-Line Execution example:
